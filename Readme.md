@@ -12,15 +12,14 @@
 <font face='Times New Roman' color='white' SIZE='15'>
 * *The third step is* to enjoy it !
 
-<font face='Times New Roman' color='red' SIZE='1'>
+face='Times New Roman' color='red' SIZE='1'>
 1. The frist letter of ONE is O .
 
-<font face='Times New Roman' color='green' SIZE='2'>
+face='Times New Roman' color='green' SIZE='2'>
 2. The second letter of ONE is N .
 
-<font face='Times New Roman' color='blue' SIZE='3'>
+face='Times New Roman' color='blue' SIZE='3'>
 3. The third letter of ONE is E .
-</font>
 
 ![笔记1](1.jpg.png)
 
