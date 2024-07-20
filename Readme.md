@@ -22,7 +22,7 @@
 3. The third letter of ONE is E .
 </font>
 
-![笔记1] (1.jpg.png)
+![笔记1](1.jpg.png)
 
 
 ##这是我的模型
